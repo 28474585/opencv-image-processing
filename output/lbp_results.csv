@@ -1,0 +1,10 @@
+﻿sample,true_class,predicted_class,result
+rock_1.png,岩石,岩石,OK
+rock_2.png,岩石,岩石,OK
+rock_3.png,岩石,岩石,OK
+grass_1.png,草地,草地,OK
+grass_2.png,草地,草地,OK
+grass_3.png,草地,草地,OK
+fabric_1.png,布料,布料,OK
+fabric_2.png,布料,布料,OK
+fabric_3.png,布料,布料,OK
